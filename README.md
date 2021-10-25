@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chris! I'm known on the interwebz as Danger.
+- 👋 Hi, I’m Chris! I'm known on the interwebz as Danger (and by other [names](https://pronouny.xyz/u/dangerloid 'my Pronouny') as well). 
 - 👀 I’m interested in coding, music, videogames, literature, art.
-- 🌱 I’m currently learning web design basics and Linux. Hopefully I'll start a full stack development course this year!
+- 🌱 I’m currently learning web design basics and Linux.
 
 <!---
 dangerloid/dangerloid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
