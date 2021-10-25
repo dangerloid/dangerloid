@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris! I'm known on the interwebz as Danger (and by other [names](https://pronouny.xyz/u/dangerloid 'my Pronouny') as well). 
-- 👀 I’m interested in coding, music, videogames, literature, art.
+- 👀 I’m interested in coding, music, videogames, literature, art and journaling.
 - 🌱 I’m currently learning web design basics and Linux.
 
 <!---
